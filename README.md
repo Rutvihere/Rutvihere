@@ -1,5 +1,7 @@
-## Hey there, I'm Rutvi Shah! 👋
-![Header Image](https://raw.githubusercontent.com/Rutvihere/Rutvihere/main/laptop.jpg)
+<div align="center">
+  <h1>Hey there, I'm Rutvi Shah! 👋</h1>
+  <img src="https://raw.githubusercontent.com/Rutvihere/Rutvihere/main/profile.gif" alt="Header Image">
+</div>
 
 <!--
 **Rutvihere/Rutvihere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-➤ Currently pursuing a B.Tech degree from Pandit Deendayal Energy University in computer science and engineering.
+➤ Currently I am pursuing a B.Tech degree from Pandit Deendayal Energy University in Computer Science and Engineering.
 
 ➤ I am a quick learner who is really passionate about coding and development. I also enjoy working with others and contributing to intriguing projects.
 
@@ -34,3 +36,4 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvi-shah-702922225/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Rutvii08)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rutvishah.0807@gmail.com)
